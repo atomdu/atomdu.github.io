@@ -1,0 +1,79 @@
+{
+  "notificationList": {
+    "list": [
+      {
+        "name": "        有好的平台可以联系：260603323@qq.com",
+        "url": "dddd"
+      }
+    ],
+    "switchTime": 1,
+    "name": "通知"
+  },
+  "navigationMap": {
+    "map": {
+      "配色": [
+        {
+          "name": "中国色",
+          "url": "http://zhongguose.com/",
+          "fontColor": "#ffaa00",
+          "fontThick": "1"
+        },
+        {
+          "name": "千图网",
+          "url": "http://www.58pic.com/peise/"
+        }
+      ],
+      "查询": [
+        {
+          "name": "常用对照表",
+          "url": "http://tool.oschina.net/commons?type=3"
+        },
+        {
+          "name": "RGB",
+          "url": "http://www.114la.com/other/rgb.htm"
+        },
+        {
+          "name": "HTML颜色",
+          "url": "http://www.w3school.com.cn/html/html_colors.asp"
+        },
+        {
+          "name": "颜色码转换",
+          "url": "http://www.sioe.cn/yingyong/yanse-rgb-16/"
+        },
+        {
+          "name": "颜色表大全",
+          "url": "http://www.5tu.cn/colors/yansebiao.html"
+        }
+      ],
+      "原理": [
+        {
+          "name": "三原色",
+          "url": "https://baike.baidu.com/item/%E4%B8%89%E5%8E%9F%E8%89%B2/764849?fr=aladdin"
+        },
+        {
+          "name": "互补色",
+          "url": "https://baike.baidu.com/item/%E4%BA%92%E8%A1%A5%E8%89%B2/3198044?fr=aladdin"
+        },
+        {
+          "name": "对比色",
+          "url": "https://baike.baidu.com/item/%E5%AF%B9%E6%AF%94%E8%89%B2/4161848?fr=aladdin"
+        },
+        {
+          "name": "邻近色",
+          "url": "https://baike.baidu.com/item/%E9%82%BB%E8%BF%91%E8%89%B2/1196771"
+        },
+        {
+          "name": "补色",
+          "url": "https://baike.baidu.com/item/%E8%A1%A5%E8%89%B2/913547"
+        }
+      ]
+    },
+    "cols": 3
+  }
+}
+
+
+
+
+
+

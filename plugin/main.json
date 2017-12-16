@@ -1,0 +1,51 @@
+{
+  "name": "工具集",
+  "version": "1",
+  "jars": [
+    {
+      "name": "hhh",
+      "jar": "aaa"
+    }
+  ],
+  "panels": [
+    {
+      "name": "翻译",
+      "clazz": "atomdu.intellij.plugin.panel.CodeTranslate",
+      "jar": ""
+    },
+    {
+      "name": "算法",
+      "url": "/modules/algorithm/index.json"
+    },
+    {
+      "name": "颜色",
+      "url": "/modules/color/index.json"
+    },
+    {
+      "name": "接口调试",
+      "url": "/modules/ifdebug/index.json"
+    },
+    {
+      "name": "导航",
+      "url": "/modules/index/index.json"
+    },
+    {
+      "name": "urlPanel",
+      "url": "url"
+    },
+    {
+      "name": "listPanel",
+      "panels": [
+        {
+          "name": "导航",
+          "url": "/modules/index/index.json"
+        },
+        {
+          "name": "翻译",
+          "clazz": "atomdu.intellij.plugin.panel.CodeTranslate",
+          "jar": ""
+        }
+      ]
+    }
+  ]
+}

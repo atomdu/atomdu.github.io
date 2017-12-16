@@ -1,0 +1,41 @@
+{
+  "notificationList": {
+    "list": [
+      {
+        "name": "        有好的平台可以联系：260603323@qq.com",
+        "url": "dddd"
+      }
+    ],
+    "switchTime": 1,
+    "name": "通知"
+  },
+  "navigationMap": {
+    "map": {
+      "ACM练习": [
+        {
+          "name": "南阳理工学院",
+          "url": "http://acm.nyist.net",
+          "fontColor": "#ffaa00",
+          "fontThick": "1"
+        },
+        {
+          "name": "judge<code>",
+          "url": "https://judgecode.com/problems"
+        }
+      ],
+      "站点": [
+        {
+          "name": "演算法笔记（英文）",
+          "url": "http://www.csie.ntnu.edu.tw/~u91029/"
+        }
+      ],
+      "算法": [
+        {
+          "name": "快速排序",
+          "url": "http://www.csie.ntnu.edu.tw/~u91029/"
+        }
+      ]
+    },
+    "cols": 3
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "notificationList": {
+    "list": [
+      {
+        "name": "        有好的平台可以联系：260603323@qq.com",
+        "url": "dddd"
+      }
+    ],
+    "switchTime": 1,
+    "name": "通知"
+  },
+  "navigationMap": {
+    "map": {
+      "搜索引擎": [
+        {
+          "name": "百度",
+          "url": "http://baidu.com/",
+          "fontColor": "#ffaa00",
+          "fontThick": "1"
+        },
+        {
+          "name": "Bing",
+          "url": "http://cn.bing.com/"
+        },
+        {
+          "name": "Google",
+          "url": "http://google.com/"
+        }
+      ],
+      "问答社区": [
+        {
+          "name": "StackOverFlow",
+          "url": "https://stackoverflow.com/"
+        },
+        {
+          "name": "SegmentFault",
+          "url": "https://segmentfault.com/"
+        }
+      ],
+      "博客": [
+        {
+          "name": "CSDN",
+          "url": "http://blog.csdn.net/"
+        },
+        {
+          "name": "cnblogs",
+          "url": "https://www.cnblogs.com/"
+        },
+        {
+          "name": "51cto",
+          "url": "http://blog.51cto.com/"
+        },
+        {
+          "name": "cnblogs",
+          "url": "https://www.cnblogs.com/"
+        }
+      ],
+      "基础教程": [
+        {
+          "name": "菜鸟教程",
+          "url": "http://www.runoob.com/"
+        },
+        {
+          "name": "W3school",
+          "url": "http://www.w3school.com.cn/"
+        },
+        {
+          "name": "易百教程",
+          "url": "http://www.yiibai.com/"
+        }
+      ],
+      "代码托管": [
+        {
+          "name": "Github",
+          "url": "https://github.com/"
+        },
+        {
+          "name": "码云",
+          "url": "https://gitee.com/"
+        },
+        {
+          "name": "Coding",
+          "url": "https://coding.net/"
+        }
+      ],
+      "移动开发": [
+        {
+          "name": "fir.im",
+          "url": "https://fir.im/"
+        },
+        {
+          "name": "蒲公英",
+          "url": "https://www.pgyer.com/"
+        },
+        {
+          "name": "友盟",
+          "url": "http://www.umeng.com/"
+        }
+      ],
+      "云计算": [
+        {
+          "name": "阿里云",
+          "url": "https://www.aliyun.com/"
+        },
+        {
+          "name": "百度云",
+          "url": "https://cloud.baidu.com/"
+        },
+        {
+          "name": "腾讯云",
+          "url": "https://cloud.tencent.com/"
+        },
+        {
+          "name": "华为云",
+          "url": "http://www.huaweicloud.com/"
+        },
+        {
+          "name": "京东云",
+          "url": "https://www.jcloud.com/"
+        },
+        {
+          "name": "亚马逊",
+          "url": "https://amazonaws-china.com/cn/"
+        }
+      ],
+      "开放平台": [
+        {
+          "name": "阿里开放平台",
+          "url": "https://open.uc.cn/"
+        },
+        {
+          "name": "腾讯开放平台",
+          "url": "https://open.qq.com/"
+        },
+        {
+          "name": "百度开放平台",
+          "url": "https://app.baidu.com/"
+        },
+        {
+          "name": "微信开放平台",
+          "url": "https://open.weixin.qq.com/"
+        }
+      ],
+      "地图": [
+        {
+          "name": "高德地图",
+          "url": "http://lbs.amap.com/"
+        },
+        {
+          "name": "百度地图",
+          "url": "https://lbsyun.baidu.com/"
+        },
+        {
+          "name": "腾讯地图",
+          "url": "https://lbs.qq.com/"
+        }
+      ],
+      "跳槽指南": [
+        {
+          "name": "Boss直聘",
+          "url": "https://www.zhipin.com/"
+        },
+        {
+          "name": "智联招聘",
+          "url": "https://www.zhaopin.com/"
+        },
+        {
+          "name": "前程无忧",
+          "url": "https://www.51job.com/"
+        },
+        {
+          "name": "猎聘网",
+          "url": "https://www.liepin.com/"
+        }
+      ]
+    },
+    "cols": 3
+  }
+}
