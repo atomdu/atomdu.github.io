@@ -1,17 +1,22 @@
 {
-  "notificationList": {
-    "list": [
-      {
-        "name": "        有好的平台可以联系：260603323@qq.com",
-        "url": "dddd"
-      }
-    ],
-    "switchTime": 1,
-    "name": "通知"
-  },
-  "navigationMap": {
-    "map": {
-      "搜索引擎": [
+  "name": "导航",
+  "navigationDivList": [
+    {
+      "name": "div1",
+      "type": 0,
+      "cols": 1,
+      "navigations": [
+        {
+          "name": "        有好的平台可以联系：260603323@qq.com",
+          "url": "dddd"
+        }
+      ]
+    },
+    {
+      "name": "搜索引擎",
+      "type": 0,
+      "cols": 4,
+      "navigations": [
         {
           "name": "百度",
           "url": "http://baidu.com/",
@@ -26,8 +31,13 @@
           "name": "Google",
           "url": "http://google.com/"
         }
-      ],
-      "问答社区": [
+      ]
+    },
+    {
+      "name": "问答社区",
+      "type": 0,
+      "cols": 4,
+      "navigations": [
         {
           "name": "StackOverFlow",
           "url": "https://stackoverflow.com/"
@@ -36,8 +46,13 @@
           "name": "SegmentFault",
           "url": "https://segmentfault.com/"
         }
-      ],
-      "博客": [
+      ]
+    },
+    {
+      "name": "博客",
+      "type": 0,
+      "cols": 4,
+      "navigations": [
         {
           "name": "CSDN",
           "url": "http://blog.csdn.net/"
@@ -54,8 +69,13 @@
           "name": "cnblogs",
           "url": "https://www.cnblogs.com/"
         }
-      ],
-      "基础教程": [
+      ]
+    },
+    {
+      "name": "基础教程",
+      "type": 0,
+      "cols": 4,
+      "navigations": [
         {
           "name": "菜鸟教程",
           "url": "http://www.runoob.com/"
@@ -68,8 +88,13 @@
           "name": "易百教程",
           "url": "http://www.yiibai.com/"
         }
-      ],
-      "代码托管": [
+      ]
+    },
+    {
+      "name": "代码托管",
+      "type": 0,
+      "cols": 4,
+      "navigations": [
         {
           "name": "Github",
           "url": "https://github.com/"
@@ -82,8 +107,13 @@
           "name": "Coding",
           "url": "https://coding.net/"
         }
-      ],
-      "移动开发": [
+      ]
+    },
+    {
+      "name": "移动开发",
+      "type": 0,
+      "cols": 4,
+      "navigations": [
         {
           "name": "fir.im",
           "url": "https://fir.im/"
@@ -96,8 +126,13 @@
           "name": "友盟",
           "url": "http://www.umeng.com/"
         }
-      ],
-      "云计算": [
+      ]
+    },
+    {
+      "name": "云计算",
+      "type": 0,
+      "cols": 4,
+      "navigations": [
         {
           "name": "阿里云",
           "url": "https://www.aliyun.com/"
@@ -122,8 +157,13 @@
           "name": "亚马逊",
           "url": "https://amazonaws-china.com/cn/"
         }
-      ],
-      "开放平台": [
+      ]
+    },
+    {
+      "name": "开放平台",
+      "type": 0,
+      "cols": 4,
+      "navigations": [
         {
           "name": "阿里开放平台",
           "url": "https://open.uc.cn/"
@@ -140,8 +180,13 @@
           "name": "微信开放平台",
           "url": "https://open.weixin.qq.com/"
         }
-      ],
-      "地图": [
+      ]
+    },
+    {
+      "name": "地图",
+      "type": 0,
+      "cols": 4,
+      "navigations": [
         {
           "name": "高德地图",
           "url": "http://lbs.amap.com/"
@@ -154,8 +199,13 @@
           "name": "腾讯地图",
           "url": "https://lbs.qq.com/"
         }
-      ],
-      "跳槽指南": [
+      ]
+    },
+    {
+      "name": "跳槽指南",
+      "type": 0,
+      "cols": 4,
+      "navigations": [
         {
           "name": "Boss直聘",
           "url": "https://www.zhipin.com/"
@@ -173,7 +223,6 @@
           "url": "https://www.liepin.com/"
         }
       ]
-    },
-    "cols": 3
-  }
+    }
+  ]
 }

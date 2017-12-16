@@ -1,17 +1,11 @@
 {
-  "notificationList": {
-    "list": [
-      {
-        "name": "        有好的平台可以联系：260603323@qq.com",
-        "url": "dddd"
-      }
-    ],
-    "switchTime": 1,
-    "name": "通知"
-  },
-  "navigationMap": {
-    "map": {
-      "在线http接口测试": [
+  "name": "接口调试",
+  "navigationDivList": [
+    {
+      "name": "在线http接口测试",
+      "type": 0,
+      "cols": 3,
+      "navigations": [
         {
           "name": "coolaf",
           "url": "http://coolaf.com/"
@@ -24,26 +18,13 @@
           "name": "站长之家",
           "url": "http://tool.chinaz.com/tools/httptest.aspx"
         }
-      ],
-      "抓包工具": [
-        {
-          "name": "fiddler",
-          "url": "https://www.baidu.com/s?ie=utf-8&wd=fiddler"
-        },
-        {
-          "name": "Wireshark",
-          "url": "https://www.baidu.com/s?ie=utf-8&wd=Wireshark"
-        },
-        {
-          "name": "SmartSniff",
-          "url": "https://www.baidu.com/s?ie=utf-8&wd=SmartSniff"
-        },
-        {
-          "name": "SRSniffer",
-          "url": "https://www.baidu.com/s?ie=utf-8&wd=SRSniffer"
-        }
-      ],
-      "基础知识": [
+      ]
+    },
+    {
+      "name": "抓包工具",
+      "type": 0,
+      "cols": 3,
+      "navigations": [
         {
           "name": "fiddler",
           "url": "https://www.baidu.com/s?ie=utf-8&wd=fiddler"
@@ -62,6 +43,28 @@
         }
       ]
     },
-    "cols": 3
-  }
+    {
+      "name": "基础知识",
+      "type": 0,
+      "cols": 3,
+      "navigations": [
+        {
+          "name": "fiddler",
+          "url": "https://www.baidu.com/s?ie=utf-8&wd=fiddler"
+        },
+        {
+          "name": "Wireshark",
+          "url": "https://www.baidu.com/s?ie=utf-8&wd=Wireshark"
+        },
+        {
+          "name": "SmartSniff",
+          "url": "https://www.baidu.com/s?ie=utf-8&wd=SmartSniff"
+        },
+        {
+          "name": "SRSniffer",
+          "url": "https://www.baidu.com/s?ie=utf-8&wd=SRSniffer"
+        }
+      ]
+    }
+  ]
 }

@@ -1,17 +1,11 @@
 {
-  "notificationList": {
-    "list": [
-      {
-        "name": "        有好的平台可以联系：260603323@qq.com",
-        "url": "dddd"
-      }
-    ],
-    "switchTime": 1,
-    "name": "通知"
-  },
-  "navigationMap": {
-    "map": {
-      "ACM练习": [
+  "name": "接口调试",
+  "navigationDivList": [
+    {
+      "name": "ACM练习",
+      "type": 0,
+      "cols": 3,
+      "navigations": [
         {
           "name": "南阳理工学院",
           "url": "http://acm.nyist.net",
@@ -22,20 +16,29 @@
           "name": "judge<code>",
           "url": "https://judgecode.com/problems"
         }
-      ],
-      "站点": [
+      ]
+    },
+    {
+      "name": "站点",
+      "type": 0,
+      "cols": 3,
+      "navigations": [
         {
           "name": "演算法笔记（英文）",
           "url": "http://www.csie.ntnu.edu.tw/~u91029/"
         }
-      ],
-      "算法": [
+      ]
+    },
+    {
+      "name": "算法",
+      "type": 0,
+      "cols": 3,
+      "navigations": [
         {
           "name": "快速排序",
           "url": "http://www.csie.ntnu.edu.tw/~u91029/"
         }
       ]
-    },
-    "cols": 3
-  }
+    }
+  ]
 }
