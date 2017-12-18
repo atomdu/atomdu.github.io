@@ -1,25 +1,31 @@
 {
-  "name": "颜色",
+  "name": "转换",
   "navigationDivList": [
     {
-      "name": "配色",
+      "name": "tool.lu",
       "type": 0,
-      "cols": 3,
+      "cols": 4,
       "navigations": [
         {
-          "name": "中国色",
-          "url": "http://zhongguose.com/",
-          "fontColor": "#ffaa00",
-          "fontThick": "1"
+          "name": "数字进制转换",
+          "url": "https://tool.lu/hexconvert/"
         },
         {
-          "name": "千图网",
-          "url": "http://www.58pic.com/peise/"
+          "name": "hex转字符串",
+          "url": "https://tool.lu/hexstr/"
+        },
+        {
+          "name": "文字加密解密",
+          "url": "https://tool.lu/encdec/"
+        },
+        {
+          "name": "摩斯电码",
+          "url": "https://tool.lu/morse/"
         }
       ]
     },
     {
-      "name": "查询",
+      "name": "oschina",
       "type": 0,
       "cols": 3,
       "navigations": [

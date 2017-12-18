@@ -2,13 +2,13 @@
   "name": "导航",
   "navigationDivList": [
     {
-      "name": "div1",
+      "name": "友情提示",
       "type": 0,
       "cols": 1,
       "navigations": [
         {
-          "name": "        有好的平台可以联系：260603323@qq.com",
-          "url": "dddd"
+          "name": "推荐链接",
+          "url": "http://www.atomdu.com/help.html"
         }
       ]
     },
@@ -131,7 +131,7 @@
     {
       "name": "云计算",
       "type": 0,
-      "cols": 4,
+      "cols": 5,
       "navigations": [
         {
           "name": "阿里云",

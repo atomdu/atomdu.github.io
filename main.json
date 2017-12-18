@@ -1,0 +1,64 @@
+{
+  "这是main.json的示意文件":"",
+  "name": "工具集",
+  "version": "1",
+  "jars": [
+    {
+      "name": "xxx",
+      "jar": "xxx"
+    }
+  ],
+  "panels": [
+    {
+      "name": "翻译",
+      "clazz": "atomdu.intellij.plugin.panel.IntellijTranslatePanel",
+      "jar": ""
+    },
+    {
+      "name": "导航",
+      "url": "/modules/index/index.json"
+    },
+    {
+      "name": "接口调试",
+      "url": "/modules/ifdebug/index.json"
+    },
+    {
+      "name": "算法",
+      "url": "/modules/algorithm/index.json"
+    },
+    {
+      "name": "格式转换",
+      "url": "/modules/convert/index.json"
+    },
+    {
+      "name": "工具集",
+      "panels": [
+        {
+          "name": "翻译",
+          "clazz": "atomdu.intellij.plugin.panel.IntellijTranslatePanel",
+          "jar": ""
+        },
+        {
+          "name": "导航",
+          "url": "/modules/index/index.json"
+        },
+        {
+          "name": "接口调试",
+          "url": "/modules/ifdebug/index.json"
+        },
+        {
+          "name": "算法",
+          "url": "/modules/algorithm/index.json"
+        },
+        {
+          "name": "格式转换",
+          "url": "/modules/convert/index.json"
+        },
+        {
+          "name": "颜色",
+          "url": "/modules/color/index.json"
+        }
+      ]
+    }
+  ]
+}
