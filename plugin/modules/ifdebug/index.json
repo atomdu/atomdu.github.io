@@ -42,29 +42,6 @@
           "url": "https://www.baidu.com/s?ie=utf-8&wd=SRSniffer"
         }
       ]
-    },
-    {
-      "name": "基础知识",
-      "type": 0,
-      "cols": 3,
-      "navigations": [
-        {
-          "name": "fiddler",
-          "url": "https://www.baidu.com/s?ie=utf-8&wd=fiddler"
-        },
-        {
-          "name": "Wireshark",
-          "url": "https://www.baidu.com/s?ie=utf-8&wd=Wireshark"
-        },
-        {
-          "name": "SmartSniff",
-          "url": "https://www.baidu.com/s?ie=utf-8&wd=SmartSniff"
-        },
-        {
-          "name": "SRSniffer",
-          "url": "https://www.baidu.com/s?ie=utf-8&wd=SRSniffer"
-        }
-      ]
     }
   ]
 }

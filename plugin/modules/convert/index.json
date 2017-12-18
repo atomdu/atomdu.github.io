@@ -1,8 +1,39 @@
 {
-  "name": "转换",
+  "name": "格式转换",
   "navigationDivList": [
     {
-      "name": "tool.lu",
+      "name": "JSON",
+      "type": 0,
+      "cols": 3,
+      "navigations": [
+        {
+          "name": "JSON在线解析",
+          "url": "http://www.sojson.com/"
+        },
+        {
+          "name": "JSON|XML互转",
+          "url": "http://www.sojson.com/json2xml/"
+        },
+        {
+          "name": "JSON生成实体类",
+          "url": "http://www.sojson.com/json2entity.html"
+        },
+        {
+          "name": "JSON转义压缩",
+          "url": "http://www.sojson.com/yasuo.html"
+        },
+        {
+          "name": "JSON中文Unicode互换",
+          "url": "http://www.sojson.com/yasuo.html"
+        },
+        {
+          "name": "JSON对比",
+          "url": "http://www.sojson.com/contrastjson.html"
+        }
+      ]
+    },
+    {
+      "name": "综合",
       "type": 0,
       "cols": 4,
       "navigations": [
@@ -25,56 +56,96 @@
       ]
     },
     {
-      "name": "oschina",
+      "name": "格式化、压缩",
       "type": 0,
-      "cols": 3,
+      "cols": 2,
       "navigations": [
         {
-          "name": "常用对照表",
-          "url": "http://tool.oschina.net/commons?type=3"
+          "name": "JavaScript/HTML格式化、压缩",
+          "url": "http://www.sojson.com/jshtml.html"
         },
         {
-          "name": "RGB",
-          "url": "http://www.114la.com/other/rgb.htm"
+          "name": "JavaScript格式化、压缩",
+          "url": "http://www.sojson.com/yasuojs.html"
         },
         {
-          "name": "HTML颜色",
-          "url": "http://www.w3school.com.cn/html/html_colors.asp"
+          "name": "JavaScript代码混淆",
+          "url": "http://www.sojson.com/jscodeconfusion.html"
         },
         {
-          "name": "颜色码转换",
-          "url": "http://www.sioe.cn/yingyong/yanse-rgb-16/"
+          "name": "JavaScript混淆加密、压缩",
+          "url": "http://www.sojson.com/jscodeconfusion.html"
         },
         {
-          "name": "颜色表大全",
-          "url": "http://www.5tu.cn/colors/yansebiao.html"
+          "name": "CSS格式化、压缩",
+          "url": "http://www.sojson.com/css.html"
+        },
+        {
+          "name": "XML格式化、压缩",
+          "url": "http://www.sojson.com/xml.html"
+        },
+        {
+          "name": "SQL格式化、压缩",
+          "url": "http://www.sojson.com/sql.html"
         }
       ]
     },
     {
-      "name": "基础知识",
+      "name": "加密解密",
       "type": 0,
-      "cols": 3,
+      "cols": 4,
       "navigations": [
         {
-          "name": "三原色",
-          "url": "https://baike.baidu.com/item/%E4%B8%89%E5%8E%9F%E8%89%B2/764849?fr=aladdin"
+          "name": "综合",
+          "url": "http://www.sojson.com/encrypt.html"
         },
         {
-          "name": "互补色",
-          "url": "https://baike.baidu.com/item/%E4%BA%92%E8%A1%A5%E8%89%B2/3198044?fr=aladdin"
+          "name": "AES",
+          "url": "http://www.sojson.com/encrypt_aes.html"
         },
         {
-          "name": "对比色",
-          "url": "https://baike.baidu.com/item/%E5%AF%B9%E6%AF%94%E8%89%B2/4161848?fr=aladdin"
+          "name": "DES",
+          "url": "http://www.sojson.com/encrypt_des.html"
         },
         {
-          "name": "邻近色",
-          "url": "https://baike.baidu.com/item/%E9%82%BB%E8%BF%91%E8%89%B2/1196771"
+          "name": "RC4",
+          "url": "http://www.sojson.com/encrypt_rc4.html"
         },
         {
-          "name": "补色",
-          "url": "https://baike.baidu.com/item/%E8%A1%A5%E8%89%B2/913547"
+          "name": "Rabbit",
+          "url": "http://www.sojson.com/encrypt_rabbit.html"
+        },
+        {
+          "name": "TripleDes",
+          "url": "http://www.sojson.com/encrypt_triple_des.html"
+        },
+        {
+          "name": "MD5",
+          "url": "http://www.sojson.com/encrypt_md5.html"
+        },
+        {
+          "name": "Base64",
+          "url": "http://www.sojson.com/base64.html"
+        },
+        {
+          "name": "散列、哈希",
+          "url": "http://www.sojson.com/hash.html"
+        },
+        {
+          "name": "Base64",
+          "url": "http://www.sojson.com/base64.html"
+        },
+        {
+          "name": "Unicode",
+          "url": "http://www.sojson.com/unicode.html"
+        },
+        {
+          "name": "UTF-8",
+          "url": "http://www.sojson.com/utf8.html"
+        },
+        {
+          "name": "ASCII",
+          "url": "http://www.sojson.com/ascii.html"
         }
       ]
     }
