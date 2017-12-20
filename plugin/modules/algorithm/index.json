@@ -7,35 +7,34 @@
       "cols": 3,
       "navigations": [
         {
-          "name": "南阳理工学院",
-          "url": "http://acm.nyist.net",
-          "fontColor": "#ffaa00",
-          "fontThick": "1"
+          "name": "OpenJudge",
+          "url": "http://openjudge.cn/"
         },
         {
-          "name": "judge<code>",
+          "name": "南阳理工学院",
+          "url": "http://acm.nyist.net"
+        },
+        {
+          "name": "LintCode",
+          "url": "http://www.lintcode.com"
+        },
+        {
+          "name": "JudgeCode>",
           "url": "https://judgecode.com/problems"
+        },
+        {
+          "name": "rqnoj",
+          "url": "http://www.rqnoj.cn/"
         }
       ]
     },
     {
-      "name": "站点",
+      "name": "算法知识",
       "type": 0,
       "cols": 3,
       "navigations": [
         {
-          "name": "演算法笔记（英文）",
-          "url": "http://www.csie.ntnu.edu.tw/~u91029/"
-        }
-      ]
-    },
-    {
-      "name": "算法",
-      "type": 0,
-      "cols": 3,
-      "navigations": [
-        {
-          "name": "快速排序",
+          "name": "演算法笔记",
           "url": "http://www.csie.ntnu.edu.tw/~u91029/"
         }
       ]

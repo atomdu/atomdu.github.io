@@ -17,12 +17,16 @@
       "url": "/modules/algorithm/index.json"
     },
     {
-      "name": "格式转换",
-      "url": "/modules/convert/index.json"
+      "name": "编程学习",
+      "url": "/modules/study/index.json"
     },
     {
       "name": "颜色",
       "url": "/modules/color/index.json"
+    },
+    {
+      "name": "格式转换",
+      "url": "/modules/convert/index.json"
     }
   ]
 }
