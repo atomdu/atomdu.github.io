@@ -8,8 +8,7 @@
       "navigations": [
         {
           "name": "百度",
-          "url": "http://baidu.com/",
-          "fontColor": "#ffaa00"
+          "url": "http://baidu.com/"
         },
         {
           "name": "Bing",
