@@ -27,6 +27,14 @@
     {
       "name": "格式转换",
       "url": "/modules/convert/index.json"
+    },
+    {
+      "name": "AI",
+      "url": "/modules/ai/index.json"
+    },
+    {
+      "name": "代码翻译",
+      "clazz": "atomdu.intellij.plugin.panel.IntellijTranslatePanel"
     }
   ]
 }

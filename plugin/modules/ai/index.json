@@ -1,0 +1,27 @@
+{
+  "name": "AI",
+  "navigationDivList": [
+    {
+      "name": "比赛",
+      "type": 0,
+      "cols": 3,
+      "navigations": [
+        {
+          "name": "Challenger",
+          "url": "https://challenger.ai/"
+        }
+      ]
+    },
+    {
+      "name": "开源框架",
+      "type": 0,
+      "cols": 3,
+      "navigations": [
+        {
+          "name": "TensorFlow",
+          "url": "https://tensorflow.google.cn/"
+        }
+      ]
+    }
+  ]
+}
