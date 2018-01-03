@@ -26,11 +26,23 @@
       "cols": 3,
       "navigations": [
         {
-          "name": "StackOverFlow",
+          "name": "StackOverFlow(en)",
           "url": "https://stackoverflow.com/"
         },
         {
-          "name": "SegmentFault",
+          "name": "Program Creek(en)",
+          "url": "https://www.programcreek.com"
+        },
+        {
+          "name": "dzone(en)",
+          "url": "https://dzone.com/"
+        },
+        {
+          "name": "leetcode(en,算法)",
+          "url": "https://leetcode.com/problemset/all/"
+        },
+        {
+          "name": "SegmentFault(zh)",
           "url": "https://segmentfault.com/"
         }
       ]
