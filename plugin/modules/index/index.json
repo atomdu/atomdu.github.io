@@ -180,17 +180,6 @@
           "url": "https://www.liepin.com/"
         }
       ]
-    },
-    {
-      "name": "友情提示",
-      "type": 0,
-      "cols": 1,
-      "navigations": [
-        {
-          "name": "推荐链接",
-          "url": "http://www.atomdu.com/help.html"
-        }
-      ]
     }
   ]
 }
