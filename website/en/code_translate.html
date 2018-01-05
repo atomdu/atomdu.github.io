@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>代码翻译</title>
+
+    <!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- 可选的 Bootstrap 主题文件（一般不用引入） -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+          integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+    <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+    <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+            crossorigin="anonymous"></script>
+
+    <!-- Traffic statistics 流量统计 -->
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?59ef09e82e48dcdeadf74fa474904e5e";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+    <style>
+        body {
+            background: #f2f2f2;
+            padding: 0px;
+            margin: 0px;
+        }
+
+        footer {
+            background: #2a2730;
+        }
+    </style>
+</head>
+<body>
+<nav class="navbar navbar-default" role="navigation">
+    <div class="container"><!-- fluid -->
+        <!--header section -->
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#">Atomdu 1024 Tools</a>
+        </div>
+        <!-- menu section -->
+        <div class="collapse navbar-collapse"><!-- navbar-ex1-collapse -->
+            <ul class="nav navbar-nav"><!-- navbar-right -->
+                <li><a href="to_index.html">导航指南</a></li>
+                <li><a href="code_translate.html">代码翻译</a></li>
+                <li><a href="pay.html">开放式付费声明</a></li>
+                <li><a href="about.html">关于我们</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="container" style="background: white">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>翻译词库数据源</h2>
+            <a href="../modules/translate/word.properties">打开</a>
+        </div>
+    </div>
+    <div class="row" id="d3">
+        <div class="col-md-12">
+            <h2>编词规范</h2>
+            <h3>复数</h3>
+            <ul>
+                <li>主要用‘<font color="#FF0000">集</font>’或‘<font color="#FF0000">们</font>’来表示英文单词中'<font color="#FF0000">s</font>'和'<font color="#FF0000">es</font>'结尾的复数；</li>
+                <li>集，组，栈，队列，图，行，库；</li>
+            </ul>
+            <h3>时态</h3>
+            <table class="table">
+                <thead>
+                <tr class="warning">
+                    <th>-/-</th>
+                    <th>普通时态</th>
+                    <th>曾经完成时态</th>
+                    <th>将来完成时态</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr class="active">
+                    <th>之前</th>
+                    <td>xx前</td>
+                    <td>已xx前</td>
+                    <td>-/-</td>
+                </tr>
+                <tr class="success">
+                    <th>进行中</th>
+                    <td>xx中</td>
+                    <td>已xx中</td>
+                    <td>-/-</td>
+                </tr>
+                <tr class="danger">
+                    <th>完成后</th>
+                    <td>xx后</td>
+                    <td>已xx后</td>
+                    <td>-/-</td>
+                </tr>
+                <!--
+                <tr class="warning">
+                    <td>产品3</td>
+                    <td>待确认</td>
+                </tr>
+                -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h2>使用示例</h2>
+            <img src="img/code_translate_1.png" width="100%" style="padding-bottom: 10px">
+        </div>
+    </div>
+</div>
+<!-- Footer
+================================================== -->
+<footer class="bs-docs-footer" style="margin-top: 10px">
+    <div class="container">
+        <ul class="bs-docs-footer-links">
+            <li><a href="https://github.com/twbs/bootstrap">GitHub 仓库</a></li>
+            <li><a href="../getting-started/#examples">实例</a></li>
+            <li><a href="http://www.youzhan.org">优站精选</a></li>
+            <li><a href="../about/">关于</a></li>
+        </ul>
+
+        <p>Designed and built with all the love in the world by <a href="https://twitter.com/mdo"
+                                                                   target="_blank">@mdo</a> and <a
+                href="https://twitter.com/fat" target="_blank">@fat</a>. Maintained by the <a
+                href="https://github.com/orgs/twbs/people">core team</a> with the help of <a
+                href="https://github.com/twbs/bootstrap/graphs/contributors">our contributors</a>.</p>
+
+        <p>本项目源码受 <a rel="license" href="https://github.com/twbs/bootstrap/blob/master/LICENSE" target="_blank">MIT</a>开源协议保护，文档受
+            <a rel="license" href="https://creativecommons.org/licenses/by/3.0/" target="_blank">CC BY 3.0</a> 开源协议保护。
+        </p>
+
+    </div>
+</footer>
+</body>
+</html>
