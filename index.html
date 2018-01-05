@@ -8,12 +8,30 @@
     <!-- Traffic statistics 流量统计 -->
     <script>
         var _hmt = _hmt || [];
-        (function() {
+        (function () {
             var hm = document.createElement("script");
             hm.src = "https://hm.baidu.com/hm.js?59ef09e82e48dcdeadf74fa474904e5e";
             var s = document.getElementsByTagName("script")[0];
             s.parentNode.insertBefore(hm, s);
         })();
+    </script>
+    <script>
+        var type = navigator.appName
+        if (type == "Netscape") {
+            var lang = navigator.language
+        }else {
+            var lang = navigator.userLanguage
+        }
+        //取得浏览器语言的前两个字母
+        var lang = lang.substr(0, 2)
+        if (lang == "zh") {             // 中文 - 不分繁体和简体
+            window.location.href = "./website/zh/code_translate.html"
+        } else if (lang == "en") {        // 英语
+              window.location.href="./website/zh/code_translate.html"
+            //  注释掉了上面跳转,不然会陷入无限循环
+        } else { // 除上面所列的语言
+            window.location.href = "./website/zh/code_translate.html"
+        }
     </script>
 </head>
 <body>
