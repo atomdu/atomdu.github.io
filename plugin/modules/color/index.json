@@ -8,9 +8,7 @@
       "navigations": [
         {
           "name": "中国色",
-          "url": "http://zhongguose.com/",
-          "fontColor": "#ffaa00",
-          "fontThick": "1"
+          "url": "http://zhongguose.com/"
         },
         {
           "name": "千图网",

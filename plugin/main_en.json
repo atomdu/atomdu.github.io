@@ -5,27 +5,27 @@
   ],
   "panels": [
     {
-      "name": "导航",
+      "name": "Index",
       "url": "/modules/index/index.json"
     },
     {
-      "name": "接口调试",
+      "name": "if Debug",
       "url": "/modules/ifdebug/index.json"
     },
     {
-      "name": "算法",
+      "name": "Algorithm",
       "url": "/modules/algorithm/index.json"
     },
     {
-      "name": "编程学习",
+      "name": "Study",
       "url": "/modules/study/index.json"
     },
     {
-      "name": "颜色",
+      "name": "Color",
       "url": "/modules/color/index.json"
     },
     {
-      "name": "格式转换",
+      "name": "Convert",
       "url": "/modules/convert/index.json"
     },
     {
@@ -33,7 +33,7 @@
       "url": "/modules/ai/index.json"
     },
     {
-      "name": "代码翻译",
+      "name": "Code Trans",
       "clazz": "atomdu.intellij.plugin.panel.IntellijTranslatePanel"
     }
   ]
